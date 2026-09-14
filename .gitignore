@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+.idea/
+.vscode/
+artifacts/
+output/
+*.pt
+*.pth
+data/
+TEB/
+GUE/
+GB/
